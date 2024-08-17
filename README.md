@@ -1,0 +1,1 @@
+# D7_PythonQuiz_Dosyalama_Fonksiyonlar_devam
